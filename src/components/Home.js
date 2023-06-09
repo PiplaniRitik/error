@@ -22,7 +22,7 @@ function App() {
 
       const fileURLs = await Promise.all(filePromises);
 
-      const response = await fetch('https://emkc.org/api/v1/piston/execute', {
+      const response = await fetch('http://localhost:5000/piston/execute', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

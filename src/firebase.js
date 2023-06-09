@@ -3,13 +3,13 @@ import 'firebase/compat/storage';
 
 const firebaseConfig = {
   // Add your Firebase configuration here
-  apiKey: "AIzaSyCbfITBap5YsReTamrMx2iPVfECNI7CmvA",
-  authDomain: "codeanalyzer-e5f34.firebaseapp.com",
-  projectId: "codeanalyzer-e5f34",
-  storageBucket: "codeanalyzer-e5f34.appspot.com",
-  messagingSenderId: "372994323697",
-  appId: "1:372994323697:web:e2bddc51edb6fba086a550",
-  measurementId: "G-TJZG1RMTQN"
+  apiKey: "AIzaSyDZNYg0kn6iLfhphfhakTuiaZP8cfDKOAA",
+  authDomain: "new-project-9bb4b.firebaseapp.com",
+  projectId: "new-project-9bb4b",
+  storageBucket: "new-project-9bb4b.appspot.com",
+  messagingSenderId: "193662491713",
+  appId: "1:193662491713:web:5e9f6ce31e0c912365bac0",
+  measurementId: "G-WJHYP4KT23"
 };
 
 firebase.initializeApp(firebaseConfig);
